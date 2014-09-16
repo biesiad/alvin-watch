@@ -1,0 +1,7 @@
+(ns alvin-watch.core-test
+  (:require [clojure.test :refer :all]
+            [alvin-watch.core :refer :all]))
+
+(deftest a-test
+  (testing "FIXME, I fail."
+    (is (= 0 1))))
